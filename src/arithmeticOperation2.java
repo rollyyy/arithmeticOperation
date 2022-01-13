@@ -15,9 +15,11 @@ public class arithmeticOperation2 {
 		
 	Scanner sc = new Scanner(System.in);  	
 	
-
+	System.out.println("A 입력 : ");
 	int A = sc.nextInt();
+	System.out.println("B 입력 : ");
 	int B = sc.nextInt();
+	System.out.println("C 입력 : ");
 	int C = sc.nextInt();	
 		
 
